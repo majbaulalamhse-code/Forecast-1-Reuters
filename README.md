@@ -1,2 +1,5 @@
 # Forecast-1-Reuters
 Predicted headline: Iran and U.S. Hold First Indirect Talks in Pakistan; Strait of Hormuz Reopening Condition Disputed
+First paragraph:
+Diplomats from Iran and the United States held their first indirect, face-to-face contact through Pakistani mediators in Islamabad on Wednesday, marking a fragile opening in a month-long war that has paralyzed global oil markets. While both sides denied the meeting constituted formal negotiations, Pakistani officials confirmed that messages were exchanged in person for the first time. A key sticking point remains Iran's insistence on sovereignty over the Strait of Hormuz — a demand the White House has called a "non-starter." Oil prices briefly dipped 3% on news of the contact before recovering, as markets remained skeptical of an imminent ceasefire.
+Reasoning: As of March 29, mediators (Egypt, Pakistan, Turkey) are actively pushing for a physical meeting in Pakistan "as soon as Friday" (March 27), meaning by April 2 this is likely to have occurred or be dominating coverage. Iran's deadline from Trump expires April 6, giving both sides urgency.
